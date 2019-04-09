@@ -14,3 +14,5 @@ function formSubmit(e){
 function calculate(amount, price, state_code){
 	return 0;
 }
+
+module.exports = { calculate };
